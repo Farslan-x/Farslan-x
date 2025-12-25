@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📊 I’m currently working on Business Development & Data Analytics projects  <br>📈 I am currently developing my skills in the following areas: Python, Data Analysis, Business Development Analytics, and Business Intelligence.<br>🧠 Ask me about data-driven decision making, BI dashboards, and analytics  <br>📬 How to reach me: ferhatarslan.x@gmail.com</p>
+<p align="left">📊 I’m currently working on Business Development & Data Analytics projects  <br>📈 I am currently developing my skills in the following areas: Python, Data Analysis, Business Development Analytics, and Business Intelligence.<br>🧠 Ask me about data-driven decision making, BI dashboards, and analytics  <br>📬 How to contact me: ferhatarslan.x@gmail.com</p>
 
 ###
 
