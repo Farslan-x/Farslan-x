@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📊 I’m currently working on: Transforming complex data into actionable growth strategies.<br>📈 I’m currently enhancing my skills in: Growth Data Analytics, Business Intelligence, and Business Development.<br>🧠 Ask me about data-driven decision making, BI dashboards, and analytics  <br>📬 How to reach me: ferhatarslan.x@gmail.com</p>
+<p align="left">📊 I’m currently working on: Transforming complex data into actionable growth strategies.<br>📈 I’m currently enhancing my skills in: Growth Data Analytics, Business Intelligence and Business Development.<br>🧠 Ask me about data-driven decision making, BI dashboards, and analytics  <br>📬 How to reach me: ferhatarslan.x@gmail.com</p>
 
 
 ###
